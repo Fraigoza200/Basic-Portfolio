@@ -1,0 +1,44 @@
+
+body{
+    background-color:lavender;
+}
+#header{
+    position: fixed;
+    top:0;
+    left:0;
+    background-color:lightgreen;
+    
+
+}
+h1{
+    font-size:50px;
+}
+#Links{
+    font-size:20px;
+    border-right:0px;
+    position: fixed;
+    top:0;
+    right:0;
+}
+p{
+    padding:20px;
+}
+#AboutMe{
+    background-color:lightcyan;
+}
+h2{
+    font-size:40px
+    
+}
+
+
+}
+#Paragraph{
+    margin: 10px;
+}
+img{
+    float:left;
+    height: 100px;
+    width: 100px;
+
+}
