@@ -1,6 +1,8 @@
 
 body{
     background-color:lavender;
+    height:700px;
+    width;700px;
 }
 #header{
     position: fixed;
@@ -25,6 +27,7 @@ p{
 }
 #AboutMe{
     background-color:lightcyan;
+    padding:50px;
 }
 h2{
     font-size:40px
@@ -34,11 +37,14 @@ h2{
 
 }
 #Paragraph{
-    margin: 10px;
+    padding:50px;
 }
 img{
     float:left;
     height: 100px;
     width: 100px;
 
+}
+#YourName{
+    background-color:magenta;
 }
